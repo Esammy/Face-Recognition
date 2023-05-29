@@ -1,0 +1,5 @@
+pip install opencv-python
+conda install -c conda-forge dlib
+pip install face_recognition
+
+# credit: https://www.mygreatlearning.com/blog/face-recognition/
